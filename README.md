@@ -2,7 +2,6 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-morato-bence-99876915a/)
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-Morato-Bence&show_icons=true&theme=merko)
 
 ### IDE's que utilizo
 
@@ -25,4 +24,4 @@ complemento das minhas habilidades e conhecimentos na área de eletrônica.
 Contato:<br/>
 Email: leobence@gmail.com <br/>
 Celular: +55 11 94545-5756 <br/>
-Linkedin: https://www.linkedin.com/in/leonardo-morato-bence-99876915a/
+Linkedin: [https://www.linkedin.com/in/leonardo-morato-bence-99876915a/](https://www.linkedin.com/in/leonardomoratobence/)
