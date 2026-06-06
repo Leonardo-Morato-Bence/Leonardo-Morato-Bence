@@ -20,5 +20,4 @@ Currently developing hardware projects involving Li-Ion battery chargers, motor 
 
 Contact:<br/>
 Email: leobence@gmail.com <br/>
-Celular: +55 11 94545-5756 <br/>
 Linkedin: [https://www.linkedin.com/in/leonardo-morato-bence-99876915a/](https://www.linkedin.com/in/leonardomoratobence/)
