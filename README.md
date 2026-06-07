@@ -15,7 +15,7 @@ Electronics engineer with interests in:
 - PCB Design
 - Industrial Automation
 
-Currently developing hardware projects involving Li-Ion battery chargers, motor drivers and embedded power systems.
+Currently developing hardware projects involving Li-Ion battery chargers, motor drivers and power systems.
 
 
 Contact:<br/>
